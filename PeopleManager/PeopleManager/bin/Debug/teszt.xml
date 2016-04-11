@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <person>
+    <name>tesztUser</name>
+    <hours>99</hours>
+  </person>
+  <person>
+    <name>Varga Balázs</name>
+    <hours>25</hours>
+  </person>
+  <person>
+    <name>Németh Vivien</name>
+    <hours>40</hours>
+  </person>
+  <person>
+    <name>Kovács István</name>
+    <hours>40</hours>
+  </person>
+  <person>
+    <name>Gipsz Jakab</name>
+    <hours>30</hours>
+  </person>
+  <person>
+    <name>Tamás Tamás</name>
+    <hours>40</hours>
+  </person>
+</people>

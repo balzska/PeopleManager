@@ -1,0 +1,14 @@
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\bin\Debug\PeopleManager.exe.config
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\obj\Debug\PeopleManager.csprojResolveAssemblyReference.cache
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\obj\Debug\MainWindow.g.cs
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\obj\Debug\App.g.cs
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\obj\Debug\PeopleManager_MarkupCompile.cache
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\obj\Debug\PeopleManager_MarkupCompile.lref
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\bin\Debug\PeopleManager.exe
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\bin\Debug\PeopleManager.pdb
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\obj\Debug\MainWindow.baml
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\obj\Debug\PeopleManager.g.resources
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\obj\Debug\PeopleManager.Properties.Resources.resources
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\obj\Debug\PeopleManager.csproj.GenerateResource.Cache
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\obj\Debug\PeopleManager.exe
+c:\users\balzska\documents\visual studio 2015\Projects\PeopleManager\PeopleManager\obj\Debug\PeopleManager.pdb
